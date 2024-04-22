@@ -1,3 +1,7 @@
 # Dependencies
-Npm start
-love u 😘
+git clone "repo-link"
+
+npm install
+
+npm start
+
